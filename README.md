@@ -275,7 +275,7 @@ This bridges the gap between the AP2 payment protocol and traditional corporate 
 
 ## 🔐 Security & Compliance
 
-- All mandates are **W3C Verifiable Credentials**
+- All mandates are **W3C Verifiable Credentials** (except NettingMandate)
 - Signed with **Ed25519Signature2020**
 - Support for **RevocationList2020Status**
 - Complete audit trail with timestamp and issuer verification
