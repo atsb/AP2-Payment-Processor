@@ -269,7 +269,7 @@ The **NettingMandate** enables AP2 to integrate with traditional banking workflo
 - Counterparty netting for investment and commercial banking
 - Payment execution only after netting completion
 
-This bridges the gap between modern payment protocols and legacy banking infrastructure.
+This bridges the gap between the AP2 payment protocol and traditional corporate banking infrastructure.
 
 ---
 
