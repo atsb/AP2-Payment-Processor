@@ -1,0 +1,21 @@
+{
+  "messageId": "e0b84c60-3f5f-4234-adc6-91f2b73b19e5",
+  "contextId": "sample-payment-context",
+  "taskId": "sample-payment-task",
+  "role": "user",
+  "parts": [
+    {
+      "kind": "data",
+      "data": {
+        "ap2.mandates.IntentMandate": {
+          "user_cart_confirmation_required": false,
+          "natural_language_description": "I'd like some cool red shoes in my size",
+          "merchants": null,
+          "skus": null,
+          "required_refundability": true,
+          "intent_expiry": "2025-10-16T15:00:00Z"
+        }
+      }
+    }
+  ]
+}
