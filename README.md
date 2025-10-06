@@ -283,7 +283,4 @@ This bridges the gap between the AP2 payment protocol and traditional corporate 
 
 ---
 
-## 📝 License
-MIT.
-
 This is a reference implementation for the AP2 protocol. See [ap2-protocol.org](https://ap2-protocol.org/) for specification details.
