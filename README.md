@@ -1,3 +1,9 @@
+# Migration to CodeBerg
+
+AP2-Payment-Processor has migrated to EU-based CodeBerg! https://codeberg.org/atsb/AP2-Payment-Processor
+
+No further developments will be done here and the repo will be closed on GitHub in 6 months.
+
 # AP2 Payment Processor
 
 This repository implements the first working reference **AP2 Payment Processor**.  
